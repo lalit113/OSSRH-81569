@@ -6,7 +6,7 @@
 
   <groupId>io.github.lalit113</groupId>
   <artifactId>OSSRH-81569</artifactId>
-  <version>1.2.3</version>
+  <version>1.0.0</version>
 
   <name>Publishing Jar to Maven Central</name>
   <description>Demo to Publish the jar to Maven Central Repository</description>
